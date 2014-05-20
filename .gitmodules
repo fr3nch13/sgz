@@ -1,0 +1,3 @@
+[submodule "app/webroot/js/jquery"]
+	path = app/webroot/js/jquery
+	url = git://github.com/jquery/jquery.git
